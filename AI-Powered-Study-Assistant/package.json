@@ -1,0 +1,34 @@
+{
+  "name": "ai-powered-study-assistant",
+  "version": "1.0.0",
+  "description": "An AI-powered web application to assist students in studying by generating summaries, flashcards, practice tests, and personalized study plans.",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "AI",
+    "study",
+    "education",
+    "flashcards",
+    "summaries",
+    "practice tests"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.4",
+    "ts-node": "^10.4.0",
+    "jest": "^27.0.6",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/jest": "^27.0.0"
+  }
+}
