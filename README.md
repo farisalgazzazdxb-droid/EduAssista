@@ -1,12 +1,6 @@
 # EduAssista: AI-Powered Study Assistant
-
 ## Overview
 
-EduAssista is an education web application designed to help students study smarter using AI. The platform allows students to upload notes, which are then processed by AI to generate summaries, flashcards, and practice tests. It also features voice-based Q&A for hands-free studying and a study plan generator based on deadlines.
-
----
-
-## Features
 
 - **Note Upload:** Students can upload their study notes.
 - **AI Summaries:** Automatically generate concise summaries from uploaded notes.
@@ -53,6 +47,7 @@ EduAssista/
 ## Architecture
 
 ### Application Architecture
+[![EduAssista Screenshot](eduassita.png)](eduassita.png)
 
 - **Frontend:** React + TypeScript web application.
 - **Backend (optional):** Can be extended with Node.js/Express or serverless functions for AI processing and database integration.
